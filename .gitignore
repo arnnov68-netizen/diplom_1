@@ -17,3 +17,7 @@ env/
 # OS
 Thumbs.db
 .DS_Store
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
