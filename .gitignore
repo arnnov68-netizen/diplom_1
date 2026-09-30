@@ -17,6 +17,9 @@ env/
 # OS
 Thumbs.db
 .DS_Store
-# Coverage
+# Coverage artifacts — в гит не идут
 .coverage
 .coverage.*
+coverage.xml
+
+# htmlcov/ коммитим — отчёт о покрытии в репозитории
